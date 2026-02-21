@@ -7,7 +7,7 @@ microcontrollers (e.g. Arduino Uno class devices).
 ## Core Idea
 The system separates:
 - A fixed PLC kernel
-- External user logic
+- External user logic 
 - Runtime logic injection without full firmware rewrite
 
 ## Architecture Principles
